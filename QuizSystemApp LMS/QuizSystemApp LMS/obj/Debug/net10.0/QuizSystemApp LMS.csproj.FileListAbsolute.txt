@@ -1,0 +1,14 @@
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\obj\Debug\net10.0\QuizSystemApp LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\obj\Debug\net10.0\QuizSystemApp LMS.AssemblyInfoInputs.cache
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\obj\Debug\net10.0\QuizSystemApp LMS.AssemblyInfo.cs
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\obj\Debug\net10.0\QuizSystemApp LMS.csproj.CoreCompileInputs.cache
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\bin\Debug\net10.0\QuizSystemApp LMS.exe
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\bin\Debug\net10.0\QuizSystemApp LMS.deps.json
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\bin\Debug\net10.0\QuizSystemApp LMS.runtimeconfig.json
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\bin\Debug\net10.0\QuizSystemApp LMS.dll
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\bin\Debug\net10.0\QuizSystemApp LMS.pdb
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\obj\Debug\net10.0\QuizSystemApp LMS.dll
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\obj\Debug\net10.0\refint\QuizSystemApp LMS.dll
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\obj\Debug\net10.0\QuizSystemApp LMS.pdb
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\obj\Debug\net10.0\QuizSystemApp LMS.genruntimeconfig.cache
+C:\University\COM326 Object Orientated Programming\QuizSystemApp LMS\QuizSystemApp LMS\obj\Debug\net10.0\ref\QuizSystemApp LMS.dll
